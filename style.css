@@ -139,7 +139,7 @@ p {
 /* Styles for Showcase */
 
 #showcase {
-  background: url('https://github.com/abrockmeyer1/hotel-website/showcase.jpg') no-repeat center center/cover;
+  background: url('./showcase.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -167,7 +167,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('photo-1.jpg') no-repeat;
+  background: url('./photo-1.jpg') no-repeat;
   min-height: 100%;
 }
 
@@ -219,7 +219,7 @@ p {
 
 #testimonials {
   height: 600px;
-  background: url('https://github.com/abrockmeyer1/hotel-websitetest-bg.jpg') no-repeat center center/cover;
+  background: url('./hotel-websitetest-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
