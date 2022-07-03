@@ -85,6 +85,7 @@ p {
 
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 
 /* Padding Utility */
@@ -111,7 +112,7 @@ p {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -161,7 +162,7 @@ p {
 
 /* Home Info */
 #home-info {
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img {
@@ -174,7 +175,7 @@ p {
 #home-info .info-content {
   float: right;
   width: 50%;
-  min-height: 100%;
+  height: 100%;
   text-align: center;
   padding: 50px 30px;
   overflow: hidden;
@@ -218,8 +219,8 @@ p {
 }
 
 #testimonials {
-  height: 600px;
-  background: url('./hotel-websitetest-bg.jpg') no-repeat center center/cover;
+  height: 100%;
+  background: url('./test-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
